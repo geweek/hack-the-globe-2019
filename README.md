@@ -13,7 +13,7 @@ Final Submissions
 [Pitch Deck](Pitches/Team_03.pdf) | [Demo URL](https://github.com/kbanc/globeTrotters.git)
 
 
-## Team 4: Glass Globe
+## Team 4: Glass Globe (***FINALIST***)
 [Pitch Deck](Pitches/Team_04.pdf) | [Demo URL](https://github.com/JuliaChae/JuliaChae.github.io.git)
 
 
@@ -33,11 +33,11 @@ Final Submissions
 [Pitch Deck](Pitches/Team_08.pdf) | [Demo URL](https://github.com/thesillypeanut/gratuiti-react-app)
 
 
-## Team 12: DOC
+## Team 12: DOC (***WINNER***)
 [Pitch Deck](Pitches/Team_12.pdf) | [Demo URL](https://github.com/xwinxu/DOC)
 
 
-## Team 13: Relief
+## Team 13: Relief (***RUNNER UP***)
 [Pitch Deck](Pitches/Team_13.pdf) | [Demo URL](https://github.com/DhrumilShah3/Relief)
 
 
@@ -57,7 +57,7 @@ Final Submissions
 [Pitch Deck](Pitches/Team_22.pdf) | [Demo URL](https://github.com/hkseo/HackTheGlobe22)
 
 
-## Team 24: Pursue
+## Team 24: Pursue (***FINALIST***)
 [Pitch Deck](Pitches/Team_24.pdf) | [Demo URL](https://github.com/JongCleo/musiclearningapp)
 
 
@@ -73,7 +73,7 @@ Final Submissions
 [Pitch Deck](Pitches/Team_29.pdf) | [Demo URL](https://github.com/JeffTheHautbois/HackTheGlobe2k19_Team_29)
 
 
-## Team 30: WeRead
+## Team 30: WeRead (***PEOPLE'S CHOICE***)
 [Pitch Deck](Pitches/Team_30.pdf) | [Demo URL](https://github.com/hack-the-globe-team-30/WeRead)
 
 
