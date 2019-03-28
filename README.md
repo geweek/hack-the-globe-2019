@@ -69,6 +69,10 @@ Final Submissions
 [Pitch Deck](Pitches/Team_25.pdf) | [Demo URL](https://github.com/yixinj/hacktheglobe2019)
 
 
+## Team 26: MedInclude
+[Pitch Deck](Pitches/Team_26.pdf) | [Demo URL](https://github.com/AlaaShamandy/Hack-The-Globe) | [Demo URL 2](https://github.com/LaurierMantel/hack-the-globe-two-6ix) 
+
+
 ## Team 27: Advena
 [Pitch Deck](Pitches/Team_27.pdf) | [Demo URL](https://github.com/Kymed/HackTheGlobe-team27)
 
